@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=f5a8d5&height=180&text=Yuna's%20GitHub&animation=&fontColor=ffffff&fontSize=70" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&color=f5a8d5&height=180&text=Yuna's%20GitHub&animation=fadeIn&fontColor=000000&fontSize=70" />
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
@@ -17,6 +17,7 @@
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
+    
 
 아직은 배워야 할 것이 많은 초보자이지만 개발자가 되기 위해 꾸준히 배우고 도전하고 있습니다!
 
