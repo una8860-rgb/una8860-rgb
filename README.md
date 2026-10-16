@@ -1,16 +1,55 @@
-## Hi there 👋
+# 👋 안녕하세요! 개발자의 길을 향해 한 걸음씩 나아가고 있습니다!
 
-<!--
-**una8860-rgb/una8860-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+아직은 배워야 할 것이 많은 초보자이지만 개발자가 되기 위해 꾸준히 배우고 도전하고 있습니다.
+배움과 경험을 하나씩 쌓으며 성장해 나가고자 합니다.
 
-Here are some ideas to get you started:
+현재 Python과 Physical AI를 중심으로 학습하고 있으며 실제 문제를 해결할 수 있는 개발자로 성장하는 것이 목표입니다
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me | 자기소개
+
+- 🎓 조선대학교 신문방송학과 졸업(~2021.03)
+- 🤖 Physical AI 및 인공지능 기술에 관심을 가지고 공부하고 있습니다.
+- 🐍 Python을 활용한 프로그래밍과 자동화 기술을 학습하고 있습니다.
+- 💡 배운 내용을 직접 실습하고 프로젝트에 적용하며 경험을 쌓고 있습니다.
+- 호남지방통계청 통계데이터센터 운영요원 근무(2021.07~2022.06)
+
+## 🚀 Projects | 프로젝트
+
+🤖 Physical AI 프로젝트 (진행 중)
+- Physical AI의 기본 개념과 핵심 기술 학습
+- Python 기반 프로그래밍 및 실습 진행
+- 인공지능과 물리적 환경의 상호작용에 대한 이해
+- 실습 중심의 프로젝트를 통한 개발 역량 강화(사주서비스 프로젝트 진행, 웹캠 제작 등)
+
+*프로젝트 진행 과정과 결과물을 지속적으로 업데이트할 예정입니다.*
+
+## 🛠️ Tech Stack | 기술 스택
+
+💻 프로그래밍 언어
+- Python (학습 및 실습)
+
+🔧 개발 환경 및 도구
+- Windows
+- Git / GitHub
+- Visual Studio Code
+
+🤖 관심 기술
+- Physical AI
+- Artificial Intelligence (AI)
+- Python
+- Data Analysis
+
+📜 Certifications | 보유 자격증
+
+- 📊 사회조사분석사 2급
+- 💻 컴퓨터활용능력 1급
+- 📈 ADsP(데이터분석 준전문가)
+
+
+## 🎯 Goals | 앞으로의 목표
+
+- 🐍 Python 프로그래밍 기초부터 탄탄하게 다지기
+- 🤖 Physical AI 분야의 기술적 이해와 실습 경험 쌓기
+- 🛠️ 스스로 문제를 해결할 수 있는 개발 역량 기르기
+- 📚 꾸준한 학습과 기록을 통해 성장 과정 남기기
+- 🚀 작은 프로젝트부터 시작해 직접 만들 수 있는 개발자로 성장하기
