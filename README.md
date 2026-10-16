@@ -42,21 +42,21 @@
 
 ## 🛠️ Tech Stack | 기술 스택
 
-프로그래밍 언어
+**프로그래밍 언어**
 - Python (학습 및 실습)
 
-개발 환경 및 도구
+**개발 환경 및 도구**
 - Windows
 - Git / GitHub
 - Visual Studio Code
 
-관심 기술
+**관심 기술**
 - Physical AI
 - Artificial Intelligence (AI)
 - Python
 - Data Analysis
 
-Certifications | 보유 자격증
+**Certifications | 보유 자격증**
 
 - 사회조사분석사 2급
 - 컴퓨터활용능력 1급
