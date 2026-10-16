@@ -15,13 +15,13 @@
 
 ## 🚀 Projects | 프로젝트
 
-Physical AI 프로젝트 (진행 중)
-- Physical AI의 기본 개념과 핵심 기술 학습
-- Python 기반 프로그래밍 및 실습 진행
-- 인공지능과 물리적 환경의 상호작용에 대한 이해
-- 실습 중심의 프로젝트를 통한 개발 역량 강화(사주서비스 프로젝트 진행, 웹캠 제작 등)
-
-*프로젝트 진행 과정과 결과물을 지속적으로 업데이트할 예정입니다.*
+| 프로젝트 | 내용 | 주요 파일 |
+| --- | --- | --- |
+| [사주그림](https://github.com/una8860-rgb/saju-service) | 생년월일·출생지 기반 사주 풀이, 만세력 조회와 결과 공유를 제공하는 웹 서비스입니다. | [화면](https://github.com/una8860-rgb/saju-service/tree/main/src/app) · [만세력 계산](https://github.com/una8860-rgb/saju-service/tree/main/src/lib/manseryeok) · [풀이 로직](https://github.com/una8860-rgb/saju-service/tree/main/src/lib/analysis) · [테스트](https://github.com/una8860-rgb/saju-service/tree/main/tests) |
+| [MediaPipe Gesture Studio](https://github.com/una8860-rgb/mediapipe) | 웹캠으로 손 제스처를 수집·학습·인식하는 Python 프로젝트입니다. 웹 및 데스크톱 앱을 포함합니다. | [README](https://github.com/una8860-rgb/mediapipe/blob/master/README.md) · [공통 처리·분류기](https://github.com/una8860-rgb/mediapipe/blob/master/gesture_common.py) · [수집](https://github.com/una8860-rgb/mediapipe/blob/master/collect_gestures.py) · [학습](https://github.com/una8860-rgb/mediapipe/blob/master/train_gestures.py) · [웹 앱](https://github.com/una8860-rgb/mediapipe/tree/master/web) |
+| [포즈 스네이크](https://github.com/una8860-rgb/pose-snake) | Teachable Machine 포즈 모델로 조작하는 웹 뱀 게임입니다. | [index.html](https://github.com/una8860-rgb/pose-snake/blob/main/index.html) |
+| [벽돌깨기](https://github.com/una8860-rgb/game) | 브라우저에서 실행하는 벽돌깨기 게임입니다. | [index.html](https://github.com/una8860-rgb/game/blob/master/index.html) |
+| [조립 PC 견적](https://github.com/una8860-rgb/pc-build-2026) | 부품 가격과 조합을 조사해 견적을 정리한 프로젝트입니다. 결과 페이지와 작업 기록을 볼 수 있습니다. | [결과 페이지 소스](https://github.com/una8860-rgb/pc-build-2026/blob/main/index.html) · [작업 기록](https://github.com/una8860-rgb/pc-build-2026/blob/main/README.md) · [조사 자료](https://github.com/una8860-rgb/pc-build-2026/tree/main/study) |
 
 ## 🛠️ Tech Stack | 기술 스택
 
