@@ -1,4 +1,22 @@
-<h1 align="center">Yuna's GitHub</h1>
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=f5a8d5&height=180&text=Yuna's%20GitHub&animation=&fontColor=ffffff&fontSize=70" />
+    </div>
+    <div align= "center"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">  </div> 
+    </div>
+    <div align= "center">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
+    <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
+          </div>
+    </div>
+    <div align= "center">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+    <div align= "center"> <a href=https://blog.naver.com/tjdrhd513> <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/tjdrhd513"> </a>
+          </div>  <br> 
+    <div align= "center">  </div> 
+    </div>
 
 아직은 배워야 할 것이 많은 초보자이지만 개발자가 되기 위해 꾸준히 배우고 도전하고 있습니다.
 배움과 경험을 하나씩 쌓으며 성장해 나가고자 합니다.
